@@ -32,5 +32,6 @@ AllowShortFunctionsOnASingleLine: Empty
 
 AllowShortBlocksOnASingleLine: true
 AllowShortIfStatementsOnASingleLine: true
+AllowShortLoopsOnASingleLine: true
 
 ---
